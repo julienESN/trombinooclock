@@ -1,0 +1,134 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="461px" height="151px" viewBox="-0.5 -0.5 461 151" content="&lt;mxfile&gt;&lt;diagram id=&quot;-rmHv23iC1xPJWCLrVsH&quot; name=&quot;Page-1&quot;&gt;7VhNc5swEP01XDN8OvYxtpP0kHQy9aHtUQEZNBEsI0Rs99d3BUsMkZO4U+oeYg/jYd+uhHbfalnhBIt8e6tYmd1DwqXju8nWCZaO74dTH/8NsGuBwCcgVSJpIW8PrMQvTqBLaC0SXg0MNYDUohyCMRQFj/UAY0rBZmi2Bjl8aslSbgGrmEkb/S4SnRHqTWZ7xRcu0owePfUvW0XOOmPypMpYApseFFw7wUIB6PYu3y64NLHr4tKOu3lD+7IwxQt9zACK+zOTNfn2oCAHLaCgBepd53W1EblkBUrzNRR6RRoX5TgTMrljO6jNUyvN4qdOmmegxC+0ZxJVHgKoVppIDdyBxcqMpDkVr9DmoXPFewXds+3A8I5VulsNSMnKSjw26zMDc6ZSUcxBa8jJyI4UBe+ZK823PYgid8sh51rt0GTbpS2xSGkcTkje9JIiJCzr5cOMMEZ5mL5MvacKb4itw8wFFnMF+vaaM/RENyFX8MQXIEEhXkBLopCygxw/cJsf4kyKtEBM8rUZa+IhMPevCM5Fkpjp51XJYlGkd43ZMtwj38hTAwEOX8smxTMcyHGGeQmi0I3r0RwvDMbCvYicCFexQNnby3gZc6UXUKAPTDRccaR6ww3dcwWaafb4koj9xAxtiv2jKe4q05GMBiMwGlqMgkpZISrWbkc3FTqrH88cj8zxsbt2DI4nFsfOInCmM10ngqEH55r7Qc2dhK9qbngke140An2XFn2lMgRezc7F9xC9k6Pp/Q/1dnp+g/4bEk9ZUGcWibf0lnTriqtPT+cHL8s/5nZ2Qm67416/3Gag4dOTOgKPnn9KIn2LMp7giZpEYirTedeuoF9q94O8bYSfRrjwO3G57SuXu770wJXAJXJFYJsW3UG9nSK5Mp8B9s9G5EaY9b/fp1RQq5g8oAMYNlYp7875LWR8e5cDxSX29M/Drwl/FWD7NMhKXL/mhbBrII4VZWXc3mRC8xXms9FsFCuHNIzQr4WzybBfu5zaeeceyLsoGiEs9pHKbDvPiggVkJ7rXXmI0XWTSW8XiKYV7m3O4b43W5vVGqq29/aOKVMEjdEtu9Eg+pEXWdEPDgTfH2PTR1bwTQ38+mmCH04mpwo+ivtvho2u9+E1uP4N&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-50-132-30-0">
+            <rect x="4" y="50" width="132" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-80-132-30-0">
+            <rect x="4" y="80" width="132" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-324-30-132-30-0">
+            <rect x="324" y="30" width="132" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-324-60-132-30-0">
+            <rect x="324" y="60" width="132" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-324-90-132-30-0">
+            <rect x="324" y="90" width="132" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-324-120-132-30-0">
+            <rect x="324" y="120" width="132" height="30"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 50 L 0 20 L 140 20 L 140 50" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 50 L 0 110 L 140 110 L 140 50" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 50 L 140 50" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="69.5" y="39.5">
+                Promotion
+            </text>
+        </g>
+        <rect x="0" y="50" width="140" height="30" fill="#000000" stroke="none" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-4-50-132-30-0)" font-size="12px">
+            <text x="5.5" y="69.5">
+                nom
+            </text>
+        </g>
+        <rect x="0" y="80" width="140" height="30" fill="#000000" stroke="none" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-4-80-132-30-0)" font-size="12px">
+            <text x="5.5" y="99.5">
+                organisation github
+            </text>
+        </g>
+        <path d="M 320 30 L 320 0 L 460 0 L 460 30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 320 30 L 320 150 L 460 150 L 460 30" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 320 30 L 460 30" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="389.5" y="19.5">
+                Étudiant
+            </text>
+        </g>
+        <rect x="320" y="30" width="140" height="30" fill="#000000" stroke="none" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-324-30-132-30-0)" font-size="12px">
+            <text x="325.5" y="49.5">
+                prénom
+            </text>
+        </g>
+        <rect x="320" y="60" width="140" height="30" fill="#000000" stroke="none" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-324-60-132-30-0)" font-size="12px">
+            <text x="325.5" y="79.5">
+                nom
+            </text>
+        </g>
+        <rect x="320" y="90" width="140" height="30" fill="#000000" stroke="none" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-324-90-132-30-0)" font-size="12px">
+            <text x="325.5" y="109.5">
+                Github user
+            </text>
+        </g>
+        <rect x="320" y="120" width="140" height="30" fill="#000000" stroke="none" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-324-120-132-30-0)" font-size="12px">
+            <text x="325.5" y="139.5">
+                photo
+            </text>
+        </g>
+        <path d="M 140 65.28 L 320 66" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="226" cy="65.5" rx="50" ry="27.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 66px; margin-left: 177px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                appartenir
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="226" y="69" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    appartenir
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 85px; margin-left: 300px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                1,1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="300" y="89" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    1,1
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 85px; margin-left: 161px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                0,N
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="161" y="89" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    0,N
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

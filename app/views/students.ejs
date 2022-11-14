@@ -1,0 +1,23 @@
+<%- include('partials/header') %>
+  <main>
+    <h2>Liste des étudiants de la promo <%= locals.promo.name %>
+    </h2>
+    <ul class="student-list">
+      <% for(const student of locals.students){ %>
+        <li>
+          <div class="card">
+            <div>
+              <img src="<%= student.profile_picture_url %>"
+                alt="la photo de profile de <%= student.first_name %> <%= student.last_name %>">
+            </div>
+            <%= student.first_name %><br>
+              <strong>
+                <%= student.last_name %>
+              </strong><br>
+              <a href="https://github.com/<%= student.github_username %>" class="btn">Profil Github</a>
+          </div>
+        </li>
+        <% } %>
+    </ul>
+  </main>
+  <%- include('partials/footer') %>

@@ -1,0 +1,16 @@
+[
+  {
+    "first_name": "Bob",
+    "last_name": "MARLEY",
+    "github_username": "bobMarley",
+    "promo": 492,
+    "profile_picture_url": "https://github.com/DamDamm.png"
+  },
+  {
+    "first_name": "Peter",
+    "last_name": "TUSH",
+    "github_username": "peterTush",
+    "promo": 492,
+    "profile_picture_url": "https://github.com/DamDamm.png"
+  }
+]

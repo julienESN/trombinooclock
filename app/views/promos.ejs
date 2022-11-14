@@ -1,0 +1,12 @@
+<%- include('partials/header') %>
+<main>
+  <h2>Liste des promos</h2>
+  <ul class="promos-list">
+    <% for(const promo of locals.promos){ %>
+    <li>
+      <a class="btn" href="/promo/<%= promo.id %>"> <%= promo.name %> </a>
+    </li>
+    <% } %>
+  </ul>
+</main>
+<%- include('partials/footer') %>

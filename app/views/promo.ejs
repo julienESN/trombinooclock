@@ -1,0 +1,12 @@
+<%- include('partials/header') %>
+  <main>
+    <h2>
+      <%= locals.promo.name %>
+    </h2>
+    <a class="btn" href="<%= locals.promo.github_organization %>">Accéder à l'orga Github de la promo <%=
+        locals.promo.name %>
+    </a><br>
+    <a class="btn" href="/promo/<%= locals.promo.id %>/students">Voir les étudiants de la promo <%= locals.promo.name %>
+    </a>
+  </main>
+  <%- include('partials/footer') %>

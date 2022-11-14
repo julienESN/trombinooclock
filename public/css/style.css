@@ -1,0 +1,140 @@
+html,
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main {
+  flex-grow: 1;
+  text-align: center;
+}
+
+h1,
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+header h1 {
+  margin: 0 0 2rem 0;
+}
+
+header h1 a {
+  text-decoration: none;
+}
+
+main h2 {
+  margin-top: 0;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.75rem;
+}
+
+a.btn {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #ccc;
+  border-radius: 0.25rem;
+  margin: 0.5rem 0;
+  transition: all 0.2s;
+}
+
+.student-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0 auto;
+  width: 1070px;
+}
+
+@media screen and (max-width: 1200px) {
+  .student-list {
+    width: 856px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .student-list {
+    width: 642px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .student-list {
+    width: 428px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .student-list {
+    width: 214px;
+  }
+}
+
+@media screen {}
+
+.card {
+  text-align: center;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0rem;
+  border: 1px solid #fff;
+  background-color: #eee;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
+  transition: all 0.25s;
+}
+
+.card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  transform: scale(1.05);
+  background-color: #fff;
+  border-radius: 0.5rem;
+  border: 1px solid #ddd;
+}
+
+.card:hover .btn {
+  background-color: green;
+  color: white;
+}
+
+.card>div {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin-bottom: 0.75rem;
+}
+
+.card img {
+  display: block;
+  width: 180px;
+  transition: all 0.25s;
+}
+
+.card:hover img {
+  transform: scale(1.2) rotate(10deg);
+}
+
+.promos-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.promos-list li a {
+  width: 140px;
+  text-align: center;
+  margin: 0.5rem;
+}
+
+footer {
+  margin: 2rem 0;
+}
